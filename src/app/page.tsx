@@ -43,9 +43,9 @@ export default function Home() {
       <div className="mt-8">
         <h2 className="text-2xl font-semibold">About Me</h2>
         <p className="mt-2 text-base">
-          Hi, I'm Bryan! I specialize in creating modern web applications using
-          the latest technologies. I enjoy solving complex problems and learning
-          new tools to improve my craft.
+          Hi, I@#39;m Bryan! I specialize in creating modern web applications
+          using the latest technologies. I enjoy solving complex problems and
+          learning new tools to improve my craft.
         </p>
       </div>
       <div className="mt-8"></div>
